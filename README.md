@@ -1,5 +1,5 @@
 # Port-Reaper
-"Port Reaper" is a basic python-based port scanner. 
+"Port Reaper" is a basic python3-based port scanner. 
 The script is designed to identify any open ports on a target host by scanning all 65535 ports.
 Utilizing the socket library, Port Reaper checks each port's status and maps common open ports to their associated protocols.
 
